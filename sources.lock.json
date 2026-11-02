@@ -1,0 +1,13 @@
+{
+  "name": "Clash Party",
+  "repository": "https://github.com/mihomo-party-org/clash-party.git",
+  "ref": "v2.0.4",
+  "commit": "ac294fed972c0c25c641abe603c3a6fe709dfdb3",
+  "guards": [
+    "package.json",
+    "pnpm-lock.yaml",
+    "pnpm-workspace.yaml",
+    "scripts/prepare.mjs",
+    "electron-builder.yml"
+  ]
+}

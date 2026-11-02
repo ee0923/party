@@ -1,0 +1,5 @@
+source/
+dist/
+release/
+__pycache__/
+source-state.json
